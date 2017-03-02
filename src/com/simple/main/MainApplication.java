@@ -8,6 +8,7 @@ public class MainApplication {
 		// TODO Auto-generated method stub
 		Helper helper = new Helper ();
 		helper.greetMessage("Moove !!");
+		helper.greetMessage("Thanks for using the service");
 
 	}
 
