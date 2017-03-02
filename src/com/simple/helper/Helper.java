@@ -7,6 +7,6 @@ public class Helper {
 	}
 	
 	public void sayGoodNight (String name) {
-		
+		System.out.println("Good NIght " + name);
 	}
 }

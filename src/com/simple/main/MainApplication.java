@@ -9,6 +9,7 @@ public class MainApplication {
 		Helper helper = new Helper ();
 		helper.greetMessage("Moove !!");
 		helper.greetMessage("Thanks for using the service");
+		helper.sayGoodNight("Honey Surya !!");
 
 	}
 
